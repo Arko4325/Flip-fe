@@ -1,0 +1,130 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fafafa;
+  margin: 0;
+  padding: 0;
+  color: #333;
+}
+
+
+.intro {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 40px;
+  background-color: #f0f4f7;
+}
+
+
+.intro-text {
+  flex: 1;
+  min-width: 300px;
+  padding: 20px;
+}
+
+
+.intro-text h1 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+
+.intro-image img {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 12px;
+}
+
+
+.info {
+  padding: 40px 20px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+
+.info h2 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+}
+
+
+.info p {
+  max-width: 600px;
+  margin: 0 auto;
+  font-size: 1.1rem;
+}
+
+
+
+
+.info {
+  padding: 40px 20px;
+  background-color: #ffffff;
+  text-align: center;
+}
+
+
+.info h2 {
+  font-size: 1.8rem;
+  margin-bottom: 15px;
+}
+
+
+.info p {
+  max-width: 600px;
+  margin: 0 auto;
+  font-size: 1.1rem;
+}
+
+
+
+
+
+.survey {
+  background-color: #e3edf0;
+  padding: 50px 20px;
+  text-align: center;
+}
+
+
+.survey h2 {
+  font-size: 1.6rem;
+  margin-bottom: 30px;
+}
+
+
+form {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+
+.question {
+  margin-bottom: 25px;
+}
+
+
+.question p {
+  font-weight: bold;
+}
+
+
+label {
+  margin-right: 20px;
+}
+
+
+button {
+  padding: 12px 30px;
+  font-size: 16px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+
+
